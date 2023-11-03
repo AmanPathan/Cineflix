@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import Card from "./components/Card";
-import logo from './components/images/logo.png';
+import logo from './components/images/cineflix.png';
 import { useNavigate } from "react-router-dom";
 
 const Result = () => {
